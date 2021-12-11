@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+# Adding config.py file.
+api_keys
 build/
 develop-eggs/
 dist/

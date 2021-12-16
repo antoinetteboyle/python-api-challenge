@@ -10,6 +10,8 @@ __pycache__/
 .Python
 # Adding config.py file.
 api_keys
+API_practice.ipynb
+random_numbers.ipynb
 build/
 develop-eggs/
 dist/

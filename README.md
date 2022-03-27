@@ -1,6 +1,6 @@
 # python-api-challenge
 
-This repository contains python-api-chalenge homework.
+This repository contains python-api-challenge.
 
 This contains 3 folders: 
     1. Main code

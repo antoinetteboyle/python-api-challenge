@@ -1,10 +1,14 @@
 # python-api-challenge
 
+<<<<<<< HEAD
 "What's the weather like as we approach the equator?"
 
 ![Equator](Images/equatorsign.png)
 
 This repository contains python-api-chalenge homework.
+=======
+This repository contains python-api-challenge.
+>>>>>>> 21cff129608b86a25427544ff3069dbc5a09ec3e
 
 This contains 3 folders: 
     1. Main code

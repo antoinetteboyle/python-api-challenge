@@ -1,21 +1,18 @@
 # python-api-challenge
 
-<<<<<<< HEAD
 "What's the weather like as we approach the equator?"
 
 ![Equator](Images/equatorsign.png)
 
 This repository contains python-api-chalenge homework.
-=======
 This repository contains python-api-challenge.
->>>>>>> 21cff129608b86a25427544ff3069dbc5a09ec3e
 
 This contains 3 folders: 
     1. Main code
     2. Output data
     3. ReadMe doc
 
-The main code contains folders WeatherPy and VacationPy. Inside each is the main code which is run from Jupyter Notebook.
+The main code contains folders [WeatherPy](main_code/VacationPy) and [VacationPy](main_code/WeatherPy). Inside each is the main code which is run from Jupyter Notebook.
 You will need two API keys:
  1. OpenWeatherMap API Key called weather_api_key 
  2. Google API Key called g_key
@@ -27,6 +24,7 @@ The output data file contains:
    ![City Data](output_data/cityweather_data.csv)
 
     2. 4 Scatterplots of key weather data.
+
     ![Cloudiness](output_data/LatCloudinessInWorldCities.png)
     ![Humidity](output_data/LatHumidityWorldCities.png)
     ![Max temperature](output_data/LatMaxTempInWorldCities.png)

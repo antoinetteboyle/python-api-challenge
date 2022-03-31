@@ -12,8 +12,6 @@ This contains 3 folders:
 
      a) WeatherPy contains Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. Performed a weather check on each of the cities using a series of successive API calls. Included a print log of each city as it's being processed with the city number and city name. The code has utilized a [simple Python library](https://pypi.python.org/pypi/citipy), and the [OpenWeatherMap API](https://openweathermap.org/api), to create a representative model of weather across world cities. The output folder contains a CSV of all retrieved data and a PNG image for each scatter plot
 
-and 
-
      b) VacationPy to plan future vacations by using jupyter-gmaps and the Google Places API. Created a heat map that displays the humidity for every city from the WeatherPy and Google Places API to find the first hotel for each city located within 5000 meters of city coordinates. Pinned the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
 2. Output data
